@@ -1,0 +1,13 @@
+# Directories
+.vs/
+.vscode/
+**/Binaries/
+**/Intermediate/
+!ThirdParty/*
+
+# Files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+**/*.spv
